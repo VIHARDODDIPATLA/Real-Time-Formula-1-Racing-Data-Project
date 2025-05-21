@@ -127,17 +127,3 @@ This project demonstrates an end-to-end data engineering pipeline that ingests, 
 - Deploy CI/CD with **Azure DevOps** or **GitHub Actions**.
 - Create real-time dashboards in **Power BI Embedded**.
 
----
-
-## 🧑‍💻 Author
-
-**Your Name**  
-Data Engineer | Azure & Big Data Enthusiast  
-[LinkedIn Profile](https://www.linkedin.com) (optional)  
-[Email](mailto:you@example.com)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
